@@ -317,7 +317,7 @@ Verifying that you can prove the following results is an excellent way to brush 
 
 * If $F:S \rightarrow T$ and $G:T \rightarrow U$ are one-to-one functions, then their _composition_ $H:S \rightarrow U$ defined as $H(s)=G(F(s))$ is also one to one.
 
-* If $F:S \rightarrow T$ is one to one, then there exists an onto function $G:T \rightarrow S$ such that $G(F(s))=s$ for every $s\in S$.
+* If $F:S \rightarrow T$ is one-to-one, then there exists an onto function $G:T \rightarrow S$ such that $G(F(s))=s$ for every $s\in S$.
 
 * If $G:T \rightarrow S$ is onto then there exists a one-to-one function $F:S \rightarrow T$ such that $G(F(s))=s$ for every $s\in S$.
 
